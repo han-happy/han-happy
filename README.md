@@ -3,7 +3,7 @@
 ## Hi! My name is Hanh but I go by Happy.
 
 I'm a third-year Cognitive Science Major @ UC Irvine!  
-I had a minor interest in coding ever since I entered UCI.  
+I had a minor interest in coding ever since I entered since highschool.  
 Being able to problem-solve my way through things really makes me ... happy!  
 I've only taken a few beginner classes in Python and I'm picking up Matlab in my research lab.  
 Other than that, I'm following ICSSC fellowship program to learn more on my own!  
