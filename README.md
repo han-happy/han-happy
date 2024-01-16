@@ -5,7 +5,7 @@
 I'm a third-year Cognitive Science Major @ UC Irvine!  
 I had a minor interest in coding lately.  
 Being able to problem-solve my way through things really makes me ... happy!  
-I've only taken a few beginner classes in Python and I'm picking up Matlab in my research lab.  
+I've only taken a few classes in Python and computational modeling.  
 Feel free to reach out to me at hanhh2@uci.edu!
 
 <!--
