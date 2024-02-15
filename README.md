@@ -3,9 +3,7 @@
 ## Hi! My name is Hanh but I go by Happy.
 
 I'm a third-year Cognitive Science Major @ UC Irvine!  
-I had a minor interest in coding lately.  
-Being able to problem-solve my way through things really makes me ... happy!  
-I've only taken a few classes in Python and computational modeling.  
+I have a strong interest in data science from the computational modeling classes I took. Given a data set to play around with models to make sense of the neural network is fascinating.  
 Feel free to reach out to me at hanhh2@uci.edu!
 
 <!--
