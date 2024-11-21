@@ -4,7 +4,7 @@
 
 I'm a Cognitive Science Major @ UC Irvine!  
 
-I'm still exploring career options taking one step at at time. A little lost but who isn't. I'm currently working on making my website for funsies so stay tuned! 
+I'm still exploring career options, taking one step at at time. A little lost but who isn't. I'm currently working on making my website for funsies so stay tuned! 
 
 Feel free to reach out to me at hanhh2@uci.edu!
 
